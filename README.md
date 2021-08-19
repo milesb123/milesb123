@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hola! 👋
 
+I am Miles Broomfield, a student at King's College London studying Computer Science Bsc graduating 2022. I'm always looking for something cool to work on or learn about so please feel free to reach out!
+
+On this profile I've pinned a few of the projects I've worked/am working on. 
+
+If you have any questions for me or about my projects send me a DM at my Twitter or Email.
 <!--
 **milesb123/milesb123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
