@@ -1,4 +1,4 @@
-# Hola! 👋
+# Hola!
 
 I am Miles Broomfield, a student at King's College London studying Computer Science Bsc graduating 2022. I'm always looking for something cool to work on or learn about so please feel free to reach out!
 
